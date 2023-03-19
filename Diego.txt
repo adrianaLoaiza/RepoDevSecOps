@@ -1,0 +1,30 @@
+#### GIT BRANCH #####
+
+Crea un branch
+	git branch <nameBranch>
+Lista los branches
+	git branch
+Comando -d elimina el branch y lo une al master
+	git branch -d <nameBranch>
+Elimina sin preguntar
+	git branch -D <nameBranch>
+
+GIT TAG
+Muestra una lista de todos los tags
+	git tag
+Crea un nuevo tags
+	git tag -a <verison> - m "esta es la versión x"
+Cambiar de branch
+	git checkout <nameBranch/tagname>
+Une el branch actual con el especificado
+	git merge <nameBranch>
+Verifica cambios en el repositorio online con el local
+	git fetch
+Borrar un archivo del repositorio
+	git rm <archivo> 
+Fork
+Descargar remote de un fork
+	git remote add upstream <url>
+Merge con master de un fork
+	git fetch upstream
+	git merge upstream/master
