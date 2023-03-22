@@ -55,7 +55,6 @@ Para ver más sobre los comandos commit, clone y add, ingresa al siguiente [link
 
 ## Michelleparra39
 
-Visita su perfil en el siguiente [link]() para conocer más de su trabajo.
 
 ## Git log
 
@@ -67,4 +66,4 @@ git log
 
 <p align="center"><img src="https://desarrolloweb.com/archivoimg/general/4092.png" alt="branch" width="600"/></p>
 
-Para ver más sobre los comandos log, diff, head y push, ingresa al siguiente [link]().
+Para ver más sobre los comandos log, diff, head y push, ingresa al siguiente [link](https://github.com/adrianaLoaiza/RepoDevSecOps/blob/main/Michell.txt).
