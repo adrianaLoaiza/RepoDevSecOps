@@ -36,3 +36,19 @@ git config --global user.email dasdo1@gmail.com
 <p align="center"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20220123201842/emailname.jpg" alt="branch" width="600"/></p>
 
 Para ver más sobre la configuración básica de git en tu local ingresa al siguiente [link](https://github.com/adrianaLoaiza/RepoDevSecOps/blob/main/JAVIER.txt).
+
+## adrianaLoaiza
+
+Visita su perfil en el siguiente [link](https://github.com/adrianaLoaiza) para conocer más de su trabajo.
+
+## Git clone
+
+Para clonar un repositorio.
+
+```
+git clone url
+```
+
+<p align="center"><img src="https://static.javatpoint.com/tutorial/git/images/git-clone-3.png" alt="branch" width="600"/></p>
+
+Para ver más sobre los comandos commit, clone y add, ingresa al siguiente [link](https://github.com/adrianaLoaiza/RepoDevSecOps/blob/main/Camila.txt).
