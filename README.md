@@ -52,3 +52,19 @@ git clone url
 <p align="center"><img src="https://static.javatpoint.com/tutorial/git/images/git-clone-3.png" alt="branch" width="600"/></p>
 
 Para ver más sobre los comandos commit, clone y add, ingresa al siguiente [link](https://github.com/adrianaLoaiza/RepoDevSecOps/blob/main/Camila.txt).
+
+## Michelleparra39
+
+Visita su perfil en el siguiente [link]() para conocer más de su trabajo.
+
+## Git log
+
+Para mostrar los logs de los commits.
+
+```
+git log
+```
+
+<p align="center"><img src="https://desarrolloweb.com/archivoimg/general/4092.png" alt="branch" width="600"/></p>
+
+Para ver más sobre los comandos log, diff, head y push, ingresa al siguiente [link]().
