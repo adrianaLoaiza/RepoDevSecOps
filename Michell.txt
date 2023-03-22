@@ -1,0 +1,42 @@
+
+Subimos al repositorio
+	git push <origien> <branch>
+Subimos un tag
+	git push --tags
+GIT LOG
+Muestra los logs de los commits
+	git log
+Muestras los cambios en los commits
+	git log --oneline --stat
+Muestra graficos de los commits
+	git log --oneline --graph
+GIT DIFF
+Muestra los cambios realizados a un archivo
+	git diff
+	git diff --staged
+GIT HEAD
+Saca un archivo del commit
+	git reset HEAD <archivo>
+Devuelve el ultimo commit que se hizo y pone los cambios en staging
+	git reset --soft HEAD^
+
+Devuelve el ultimo commit y todos los cambios
+	git reset --hard HEAD^
+Devuelve los 2 ultimo commit y todos los cambios
+	git reset --hard HEAD^^
+Rollback merge/commit
+	git log
+	git reset --hard <commit_sha>
+GIT REMOTE
+Agregar repositorio remoto
+	git remote add origin <url>
+Cambiar de remote
+	git remote set-url origin <url>
+Remover repositorio
+	git remote rm <name/origin>
+Muestra lista repositorios
+	git remote -v
+Muestra los branches remotos
+	git remote show origin
+Limpiar todos los branches eliminados
+	git remote prune origin 
